@@ -11,7 +11,7 @@
 
 [![Docker Hub badge](http://dockeri.co/image/x86txt/tor-socks-proxy)](https://hub.docker.com/r/x86txt/tor-socks-proxy/)
 
-The super easy way to setup a [Tor](https://www.torproject.org) [SOCKS5](https://en.wikipedia.org/wiki/SOCKS#SOCKS5) [proxy server](https://en.wikipedia.org/wiki/Proxy_server) inside a [Docker](https://en.wikipedia.org/wiki/Docker_(software)) [container](https://en.wikipedia.org/wiki/Container_(virtualization)) without relay/exit feature. Modified from [PeterDaveHello/tor-socks-proxy](https://github.com/PeterDaveHello/tor-socks-proxy) - rebased to Ubuntu 20.04 using the latest daemon directly form the Tor Project.
+The super easy way to setup a [Tor](https://www.torproject.org) [SOCKS5](https://en.wikipedia.org/wiki/SOCKS#SOCKS5) [proxy server](https://en.wikipedia.org/wiki/Proxy_server) inside a [Docker](https://en.wikipedia.org/wiki/Docker_(software)) [container](https://en.wikipedia.org/wiki/Container_(virtualization)) without relay/exit feature. Modified from [PeterDaveHello/tor-socks-proxy](https://github.com/PeterDaveHello/tor-socks-proxy) - rebased to Ubuntu 20.04 using the latest daemon directly from the Tor Project.
 
 ## Usage
 
